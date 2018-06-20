@@ -12,19 +12,19 @@ Supported rpc's API
 
 Supported by API command's
 - magnitude
-
+###
 - coinsToSatoshi
 - satoshiToCoins
-
+###
 - getAddresses
 - getBalance
 - sendToAdresses
 - sendToAddress
 - getUnspent
 - getOperationStatus
-
+###
 -- ZeroCash only
-
+###
 - getZAddresses 
 - getNewZAddress
 - shieldCoinbase
