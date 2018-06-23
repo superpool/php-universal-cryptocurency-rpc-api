@@ -189,4 +189,5 @@ foreach ($preparedPayments as $coin => $payments) {
 ```
 
 Terminal
+
 ![Optional Text](../master/terminal.png)
