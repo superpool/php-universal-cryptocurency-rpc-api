@@ -187,3 +187,7 @@ foreach ($preparedPayments as $coin => $payments) {
     echo "\r\n";
 }
 ```
+
+Terminal
+
+![Optional Text](../master/terminal.png)
